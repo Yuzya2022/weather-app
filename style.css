@@ -41,3 +41,8 @@ ul{
 .right{
     text-align: center;
 }
+.code-link{
+    display: block;
+    margin: auto 0;
+    text-align: center;
+}
